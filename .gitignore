@@ -1,0 +1,4 @@
+__pycache__/
+last_session_info.pkl
+*.pyc
+.DS_Store
