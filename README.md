@@ -127,4 +127,4 @@ python Q_learning/main.py
 欢迎对此项目做出贡献！如果你有任何建议或想要修复bug，请随时提交 Pull Request 或创建 Issue。
 
 ## 许可证
-本项目当前未指定开源许可证。如果需要，可以考虑添加一个 (例如 MIT License)。 
+MIT License
